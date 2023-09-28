@@ -1,12 +1,12 @@
 {
-  "name": "vorterx",
+  "name": "King Ravana",
   "version": "3.0.0",
   "main": "core.js",
   "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
   "start": "node --max-old-space-size=4096 core.js"
   },
-  "author": "Diegoson",
+  "author": "Kavishka",
   "dependencies": {
     "@whiskeysockets/baileys": "6.4.1",
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -57,11 +57,11 @@
     },
     "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vorterx/Aztec-MD.git"
+    "url": "git+https://github.com/KaviyaTech/KING-RAVANA.git"
     },
     "bugs": {
-    "url": "https://github.com/Vorterx/Aztec-MD/issues"
+    "url": "https://github.com/KaviyaTech/KING-RAVANA/issues"
      },
-     "homepage": "https://github.com/Vorterx/Aztec-MD#readme",
+     "homepage": "https://github.com/KaviyaTech/KING-RAVANA#readme",
      "description": ""
      }
